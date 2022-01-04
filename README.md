@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adrian.ZHU
 - 👀 I’m interested in Programming, Technology and something geekish 😉
-- 🌱 I’m currently learning C and AutoSAR for the SW work in Intelligent Cockpit 😊
+- 🌱 I’m currently learning AutoSAR and improving programming for the SW work in Intelligent Cockpit 😊
 - 📫 If you would like to reach me, pls contact me on t.me/HelloZAdrian ✌️
 
 <!---
